@@ -1,12 +1,9 @@
-# 👋 Привет, я @StalArea!  
+# 👋 Hi, I'm @StalArea!  
 
-## 🛠 О себе  
-🔹 **Интересуюсь:** разработкой ПО, Linux-дистрибутивами, свободным ПО  
-🔹 **Изучаю:** Linux, Bash, Java
-🔹 **Работаю над:** PulseMod
+## 🛠 About Me  
+🔹 **Interested in:** Software development, Linux distributions, free software  
+🔹 **Learning:** Linux, Bash, Java  
+🔹 **Working on:** PulseMod  
 
-## 📫 Как связаться  
-💬 Discord: metaone
-
-## ⚡ Интересный факт  
-Использую **neon GNU/Linux**
+## 📫 Contact  
+💬 Discord: metaone 
